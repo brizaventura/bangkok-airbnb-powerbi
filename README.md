@@ -13,7 +13,7 @@ On the first page, I wanted to give a quick but complete snapshot of the Airbnb 
 
 On the second page, I focused on understanding how prices and ratings behave across different neighbourhoods. I wanted to explore whether higher prices lead to better ratings, and which areas perform best in terms of guest satisfaction.
 
-<img width="1863" height="1050" alt="image" src="https://github.com/user-attachments/assets/0b44deab-ad35-4b25-a108-2432f73299eb" />
+<img width="1926" height="1077" alt="image" src="https://github.com/user-attachments/assets/deb75e21-1c9d-4605-8edc-fa1309da537f" />
 
 **Conclusions** 
 - The overall average rating is very high, which tells me that most guests have positive experiences in Bangkok.
